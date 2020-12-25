@@ -1,0 +1,15 @@
+DROP TABLE Anime;
+DROP TABLE Original;
+DROP TABLE Review;
+DROP TABLE Editor;
+DROP TABLE AuthorReview;
+DROP TABLE TypeOriginal;
+DROP TABLE Author;
+DROP TABLE DurationAnime;
+DROP TABLE Censorship;
+DROP TABLE Studio;
+DROP TABLE Country;
+DROP TABLE Status;
+DROP TABLE Season;
+DROP TABLE TypeAnime;
+DROP TABLE Genre;

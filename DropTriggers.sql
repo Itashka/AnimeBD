@@ -1,0 +1,15 @@
+DROP TRIGGER Trg_Genre;
+DROP TRIGGER Trg_TypeAnime;
+DROP TRIGGER Trg_Season;
+DROP TRIGGER Trg_Status;
+DROP TRIGGER Trg_Status;
+DROP TRIGGER trg_Country;
+DROP TRIGGER trg_Studio;
+DROP TRIGGER trg_Censorship;
+DROP TRIGGER trg_DurationAnime;
+DROP TRIGGER trg_TypeOriginal;
+DROP TRIGGER trg_AuthorReview;
+DROP TRIGGER trg_Editor;
+DROP TRIGGER trg_Review;
+DROP TRIGGER trg_Original;
+DROP TRIGGER trg_Anime;
